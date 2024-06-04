@@ -13,4 +13,4 @@ I used HTML, CSS and JavaScript to build the weather app. The page works on mobi
 
 ## Deployed version 🚀
 
-https://weather-app-aleksandra.netlify.com/
+https://weather-app-aleksandra.netlify.app/
